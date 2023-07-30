@@ -1,0 +1,5 @@
+//Node
+-Executa Javascript fora do navegador
+-V8 Engine
+-Possui um núcleo
+-Suporta várias operações simultaneamente (non-blocking)
