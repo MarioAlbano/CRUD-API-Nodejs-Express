@@ -7,5 +7,15 @@
 -Já vem com módulos pré instalados
 -Podemos instalar módulos com o npm
 
+//Usando classes
+-Criar classe, construtor com os this e os métodos, dar modules.exports
+-No outro arquivo usar require e criar uma classe instanciada
+
+//Usando nodemon
+-Para não ter que recarregar sempre que fizermos mudanças, instalar o nodemon
+
 //Iniciando
 -npm init
+
+//Todo
+-

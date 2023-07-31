@@ -1,0 +1,27 @@
+{
+  "name": "crud-api-nodejs-express",
+  "version": "1.0.0",
+  "description": "A simple CRUD application using Node.js and Express. This application allows users to perform CRUD (Create, Read, Update, Delete) operations on a courses array.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarioAlbano/CRUD-API-Nodejs-Express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarioAlbano/CRUD-API-Nodejs-Express/issues"
+  },
+  "homepage": "https://github.com/MarioAlbano/CRUD-API-Nodejs-Express#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
