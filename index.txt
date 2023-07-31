@@ -3,3 +3,9 @@
 -V8 Engine
 -Possui um núcleo
 -Suporta várias operações simultaneamente (non-blocking)
+-Podemos criar nossos própios módulos
+-Já vem com módulos pré instalados
+-Podemos instalar módulos com o npm
+
+//Iniciando
+-npm init
