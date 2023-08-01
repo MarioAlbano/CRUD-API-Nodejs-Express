@@ -11,11 +11,7 @@
 -Criar classe, construtor com os this e os métodos, dar modules.exports
 -No outro arquivo usar require e criar uma classe instanciada
 
-//Usando nodemon
--Para não ter que recarregar sempre que fizermos mudanças, instalar o nodemon
-
 //Iniciando
--npm init
-
-//Todo
--
+-npm init para começar o projeto
+-Entrar no mongoDB cloud e configurar. Guardar login, password e link
+-npm install express mongodb mongoose. Express = Framework popular para Node. MongoDB = Banco de dados não relacional. Mongoose = Biblioteca de modelagem de dados em objetos
