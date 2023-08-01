@@ -113,3 +113,5 @@ app.delete("/users/:id", async (req, res) => {
 //In Read All users: Use GET and 'http://localhost:8080/users'
 //In Read by ID: Use GET and 'http://localhost:8080/users/digit_the_id_here'. Click body -> raw -> JSON and send you json
 //In Delete: Use DELETE and 'http://localhost:8080/users/digit_the_id_here'
+
+//After exporting the collection, will generate 'CRUD Node.js.postman_collection.json'. It's available in the root
