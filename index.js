@@ -115,3 +115,4 @@ app.delete("/users/:id", async (req, res) => {
 //In Delete: Use DELETE and 'http://localhost:8080/users/digit_the_id_here'
 
 //After exporting the collection, will generate 'CRUD Node.js.postman_collection.json'. It's available in the root
+//That API can be considered RESTful because: Has HTTP Methods(POST, GET, PATCH, DELETE), URL Structure (example '/users' and '/users/:id'), Stateless to not rely on server-side, Send response in JSON, and has status codes
