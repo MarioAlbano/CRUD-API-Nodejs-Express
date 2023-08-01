@@ -12,4 +12,4 @@ const userSchema = new mongoose.Schema({
 const User = mongoose.model("User", userSchema);
 
 //Exporting 'User'. Now we can use to interact with the MongoDB database
-module.expots = User;
+module.exports = User;
